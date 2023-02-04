@@ -1,0 +1,16 @@
+2022-08-17T14:47:36.7994107 404 : [{"timestamp":"2022-08-17T21:47:36.787+00:00","status":404,"error":"Not Found","message":"No message available","path":"/balance/balance"}]
+2022-08-17T14:48:36.0082884 500 : [{"timestamp":"2022-08-17T21:48:35.997+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"java.security.Principal.getName()\" because \"this.principal\" is null","path":"/balance"}]
+2022-08-17T14:49:47.4448619 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-08-17T14:50:04.0173082 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-08-17T14:50:26.809144 500 : [{"timestamp":"2022-08-17T21:50:26.796+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"java.security.Principal.getName()\" because \"this.principal\" is null","path":"/balance"}]
+2022-08-17T14:58:58.3372642 500 : [{"timestamp":"2022-08-17T21:58:58.328+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"java.security.Principal.getName()\" because \"this.principal\" is null","path":"/balance"}]
+2022-08-17T15:22:37.343059 500 : [{"timestamp":"2022-08-17T22:22:37.333+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"java.security.Principal.getName()\" because \"this.principal\" is null","path":"/balance"}]
+2022-08-17T15:23:20.4071078 500 : [{"timestamp":"2022-08-17T22:23:20.397+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"java.security.Principal.getName()\" because \"this.principal\" is null","path":"/balance"}]
+2022-08-17T22:12:04.2948099 500 : [{"timestamp":"2022-08-18T05:12:04.280+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"com.techelevator.tenmo.dao.UserDao.getBalance(String)\" because \"this.user\" is null","path":"/balance"}]
+2022-08-17T22:57:16.0703528 500 : [{"timestamp":"2022-08-18T05:57:16.055+00:00","status":500,"error":"Internal Server Error","message":"Cannot invoke \"com.techelevator.tenmo.dao.UserDao.getBalance(String)\" because \"this.user\" is null","path":"/balance"}]
+2022-08-17T23:17:19.595623 404 : [{"timestamp":"2022-08-18T06:17:19.584+00:00","status":404,"error":"Not Found","message":"No message available","path":"/"}]
+2022-08-17T23:40:11.6591517 404 : [{"timestamp":"2022-08-18T06:40:11.648+00:00","status":404,"error":"Not Found","message":"No message available","path":"/"}]
+2022-08-17T23:42:30.5083765 404 : [{"timestamp":"2022-08-18T06:42:30.497+00:00","status":404,"error":"Not Found","message":"No message available","path":"/user/balance/"}]
+2022-08-17T23:44:35.3892614 404 : [{"timestamp":"2022-08-18T06:44:35.377+00:00","status":404,"error":"Not Found","message":"No message available","path":"/user/balance/"}]
+2022-08-17T23:47:56.1077978 404 : [{"timestamp":"2022-08-18T06:47:56.095+00:00","status":404,"error":"Not Found","message":"No message available","path":"/user/balance/"}]
+2022-08-17T23:50:24.4029189 404 : [{"timestamp":"2022-08-18T06:50:24.391+00:00","status":404,"error":"Not Found","message":"No message available","path":"/user/balance/"}]

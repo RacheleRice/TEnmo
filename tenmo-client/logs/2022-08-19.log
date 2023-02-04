@@ -1,0 +1,10 @@
+2022-08-19T18:20:26.0475826 401 : [no body]
+2022-08-19T18:20:40.9995062 500 : [{"timestamp":"2022-08-20T01:20:40.996+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; bad SQL grammar [SELECT * FROM transfer WHERE account_from = (SELECT use... (505 bytes)]
+2022-08-19T18:21:29.8476574 500 : [{"timestamp":"2022-08-20T01:21:29.845+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; bad SQL grammar [SELECT * FROM transfer WHERE account_from = (SELECT use... (505 bytes)]
+2022-08-19T18:36:32.483539 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-08-19T18:37:20.8008574 500 : [{"timestamp":"2022-08-20T01:37:20.786+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; bad SQL grammar [SELECT * FROM transfer WHERE account_from = (SELECT acc... (580 bytes)]
+2022-08-19T22:58:55.630214 404 : [{"timestamp":"2022-08-20T05:58:55.608+00:00","status":404,"error":"Not Found","message":"No message available","path":"/user/transfers"}]
+2022-08-19T23:44:36.667844 404 : [{"timestamp":"2022-08-20T06:44:36.649+00:00","status":404,"error":"Not Found","message":"No message available","path":"/user/transfers"}]
+2022-08-19T23:45:44.707593 404 : [{"timestamp":"2022-08-20T06:45:44.705+00:00","status":404,"error":"Not Found","message":"No message available","path":"/user/transfers"}]
+2022-08-19T23:47:07.988069 401 : [no body]
+2022-08-19T23:47:30.06198 404 : [{"timestamp":"2022-08-20T06:47:30.056+00:00","status":404,"error":"Not Found","message":"No message available","path":"/user/transfers"}]
